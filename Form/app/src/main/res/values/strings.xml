@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FormNhapLieu</string>
+    <string name="error_field_required">This field is required</string>
+</resources>
